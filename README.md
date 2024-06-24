@@ -40,8 +40,6 @@ pip3 install pymongo
 - More packate to install are in Dockerfile
 
 ### Installing & Setting (based on Docker)
-- docker: [kimakuma8/ubuntu:project4](https://hub.docker.com/layers/kimakuma8/ubuntu/jetson/images/sha256-efc7f8b444cd68947ad227a118c639c337ffad62fd51a412190ee84dda8400f7?context=repo)
-
 - Grant sound device permission in Docker
 ```console
 sudo isermod -aG docker $USER
